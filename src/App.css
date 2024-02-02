@@ -1,0 +1,15 @@
+.box
+{
+  text-align: center;
+}
+.t-body , td, th  
+{
+  border: 1px solid black;
+}
+.t-box , th{
+  padding: 10px 15px;
+}
+.t-body 
+{
+  margin: auto  ;
+}
